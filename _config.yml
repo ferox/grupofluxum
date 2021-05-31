@@ -25,7 +25,7 @@ people:
     - title: linkedin
       url: https://br.linkedin.com/in/ferox
     - title: twitter
-      url: https://twitter.com/hacker_ferox
+      url: https://twitter.com/ferox369
     - title: github
       url: https://github.com/ferox
 
@@ -39,12 +39,8 @@ people:
   
   position1: Jardineiro de Comunidades
   social:
-    - title: facebook
-      url: https://www.facebook.com/fabricio.castro.3348
     - title: medium
       url: https://medium.com/fabriciocastro
-    - title: behance
-      url: https://www.behance.net/fabriciocastro
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
